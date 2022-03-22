@@ -1,0 +1,10 @@
+main:
+  # - title: "ABOUT"
+    # url: /about/
+  - title: "GENE BACKGROUND"
+    url: /gene/
+  - title: "MECHANISM OF TESTING"
+    url: /test/
+  - title: "MISC"
+    url: /misc/
+  
