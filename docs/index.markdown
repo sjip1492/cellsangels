@@ -1,7 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: sarah-home
+fullpage_hero_image: "/assets/images/egfr.png"
+title_image_header:
+  button:
+    - label: "Contact"
+      url: "/contact"
 ---
-hi team

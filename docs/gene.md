@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /gene/
 header_text: Gene Background
 ---
