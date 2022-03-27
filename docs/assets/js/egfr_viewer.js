@@ -64,7 +64,7 @@ function init() {
     function onError() {}
 
     const loader = new OBJLoader( manager );
-    loader.load( '/assets/models/BU_3NJP.obj', function ( obj ) {
+    loader.load( '/cellsangels/assets/models/BU_3NJP.obj', function ( obj ) {
 
         object = obj;
 
