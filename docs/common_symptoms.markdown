@@ -1,7 +1,7 @@
 ---
 layout: cell-home
 permalink: /symptoms/
-header_text: Common Symptoms
+title: Common Symptoms
 ---
 
 Inflammatory skin and bowel disease, neonatal

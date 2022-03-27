@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /key-terms/
-header_text: Key Terms
+title: Key Terms
 ---
 
 Genotype: 

@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: quiz
 permalink: /quiz/
-header_text: Test your knowledge!
+title: Test your knowledge!
 ---
 
 Congratulations! You have officially completed the information seminar brought to you by BIOL112’s Cell’s Angels! This web page was specifically designed for folks like you who may be curious about the relationship between cellular activity and its effects on human health. 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /sources/
-header_text: Sources
+title: Sources
 ---
 
 Mechanisms of egfr Gene Transcription Modulation: Relationship to Cancer Risk and Therapy Response. Burkhard Brandt, Sönke Meyer-Staeckling, Hartmut Schmidt, Konstantin Agelopoulos, Horst Buerger. 15 December 2006. Clinical Cancer Research Volume 12 Issue 24
