@@ -250,112 +250,19 @@ html
     }
 }
 
-// CONTACT STYLING
-.layout--sarah-contact {
+.layout--visualization {
+    #text-overlay {
+        position: fixed;
+        font-size: 15px;
+        max-width: 500px;
+        margin: 50px;
+        color: white;
+    }
     .masthead {
-        position: relative;
-    }
-    .about-container {
-        max-width: 1280px;
-        margin: 0 auto;
-    }
-    .about-image-container {
-        padding: 1em;
-
-        @include breakpoint($medium) {
-            float: left;
-            width: 50%;
-        }
-        @include breakpoint($large) {
-            padding: 50px;
-            padding-left: 0;
-        }
-    }
-    .about-image {
-        border-color: $lighter-main-color;
-        border-width: 30px;
-        border-style: dashed;
-    }
-    .about-text {
-        padding: 1em;
-
-        h2 { 
-            margin-top: 0;
-        }
-
-        a {
-            color: $main-color;
-        }
-
-        @include breakpoint($medium) {
-            float: right;
-            width: 50%;
-        }
-        @include breakpoint($large) {
-            padding: 50px;
-            padding-right: 0;
-        }
+        position: inherit;
     }
 }
 
-// PROJECTS STYLING
-.layout--sarah-projects {
-    .archive {
-        padding: 0 1.5em;
-
-        @include breakpoint($large) {
-            padding: 0;
-        }
-    }
-    a {
-        font-family: initial;
-        color: inherit;
-    }
-}
-
-// CV STYLING
-.layout--sarah-cv {
-    a {
-        font-family: initial;
-        color: inherit;
-    }
-    .collapsible {
-      background-color: $lighter-main-color;
-      color: black;
-      cursor: pointer;
-      padding: 1em;
-      width: 100%;
-      border: none;
-      text-align: left;
-      outline: none;
-      // font-size: 15px;
-    }
-
-    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-    .active, .collapsible:hover {
-      background-color: $main-color;
-      color: white;
-    }
-
-    .content {
-      padding: 0 1em;
-      background-color: white;
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.2s ease-out;
-    }
-
-    h3 {
-        // letter-spacing: 1.5px;
-        margin-top: 20px;
-        margin-bottom: 10px;
-    }
-
-    .skill-dates, .skill-subtitle {
-        font-style: italic;
-        font-size: 12px;
-    }
-}
 
 // POSTS STYLING
 .layout--posts {

@@ -1,6 +1,8 @@
 main:
   - title: "About EGFR"
     url: /background/
+  - title: "Visualization"
+    url: /visualization/
   - title: "EGFR Testing"
     url: /testing/
   - title: "Inheritability & Precautions"
