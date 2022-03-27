@@ -1,5 +1,5 @@
-import * as THREE from '/assets/js/three.module.js';
-import { OBJLoader } from '/assets/jsm/OBJLoader.js';
+import * as THREE from '/cellsangels/assets/js/three.module.js';
+import { OBJLoader } from '/cellsangels/assets/jsm/OBJLoader.js';
 
 let container;
 let camera, scene, renderer;
