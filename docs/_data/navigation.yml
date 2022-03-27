@@ -1,10 +1,13 @@
 main:
-  # - title: "ABOUT"
-    # url: /about/
-  - title: "GENE BACKGROUND"
-    url: /gene/
-  - title: "MECHANISM OF TESTING"
-    url: /test/
-  - title: "MISC"
-    url: /misc/
-  
+  - title: "About EGFR"
+    url: /background/
+  - title: "EGFR Testing"
+    url: /testing/
+  - title: "Inheritability & Precautions"
+    url: /inheritability/
+  - title: "Common Symptoms"
+    url: /symptoms/
+  - title: "Key Terms"
+    url: /key-terms/
+  - title: "quiz"
+    url: /quiz/  
