@@ -29,6 +29,7 @@ $caption-font-family: $garamond !default;
 body {
     font-family: $garamond !important;
     height: 100%;
+    font-size: 16px;
 
     h1, h2, h3 {
         color: $main-color;
@@ -72,12 +73,13 @@ html
 
     .masthead__inner-wrap {
         font-family: $garamond !important;
-        font-size: 10px;
+        font-size: 16px;
         letter-spacing: 1px;
     }
 
     a.site-title {
         display: contents;
+        font-size: 16px;
 
         &:hover {
             color: #000000 !important;
@@ -284,6 +286,22 @@ html
     .company, .location, .dates, .video-caption {
         font-style: italic;
         font-size: 12px;
+    }
+}
+
+.layout--quiz {
+    .question {
+        font-weight: bold;
+    }
+    .answer {
+        font-weight: normal;
+    }
+    .answer.correct.active {
+        color: blue;
+        font-weight: bold;
+    }
+    .answer.active {
+        font-weight: bold;
     }
 }
 

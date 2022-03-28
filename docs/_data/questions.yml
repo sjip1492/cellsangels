@@ -1,0 +1,75 @@
+questions:
+  - question: What functions can the EGFR contribute to in humans? (Select all that apply)
+    answers:
+      - answer: Tissue Development
+        correct: Y
+      - answer: Enhance fertility
+        correct: Y
+      - answer: Create change in taste-buds
+        correct: N
+      - answer: Cell signaling
+        correct: N
+  - question: Where is the EGFR gene found? (Select best answer)
+    answers:
+      - answer: Chromosome 4
+        correct: N
+      - answer: Chromosome 5
+        correct: N
+      - answer: Chromosome 6
+        correct: N
+      - answer: Chromosome 7
+        correct: Y
+  - question: What diseases can be associated with significant levels of EGFR? (Select all that apply)
+    answers:
+      - answer: Psoriasis
+        correct: Y
+      - answer: Cancer
+        correct: Y
+      - answer: Inflammation
+        correct: Y
+      - answer: Alzheimers
+        correct: Y
+      - answer: Heart Disease
+        correct: Y
+  - question: What treatments can be performed within humans with significant levels of EGFR? (Select all that apply)
+    answers:
+      - answer: Magnetic Resonance Imaging (MRI)
+        correct: N
+      - answer: Intravenous (IV)
+        correct: N
+      - answer: Comprehensive Next Generation Sequencing (NGS)
+        correct: Y
+      - answer: Hydrogen Breath Test (HBT)
+        correct: N
+  - question: How is EGFR best defined? (Select best answer)
+    answers:
+      - answer: EGFR is a type of gene that provides instructions to produce a receptor protein called the epidermal growth factor receptor. This process occurs across the cell membrane resulting in part of the protein remaining inside the cell and the other end projects from the outer surface of the cell.
+        correct: Y
+      - answer: EGFR is a type of gene that provides instructions for the mitochondria to secrete a toxic protein called epidermal growth factor receptor.
+        correct: N
+      - answer: EGFR is a type of gene found only within individuals with gigantism due to overproduction of a receptor protein called epidermal growth factor receptor.  
+        correct: N
+  - question: EGFR is a type of gene that can become dangerous in regards to health if overexpressed within a body
+    answers:
+      - answer: True
+        correct: Y
+        answer: False
+        correct: N
+  - question: What does PCR stand for in relation to screening? (Select best answer)
+    answers:
+      - answer: Pre-Cancer Respiration
+        correct: N
+      - answer: Phenotype Cursory Response 
+        correct: N
+      - answer: Polymerase Chain Reaction
+        correct: Y
+      - answer: Polysaccharide Case Report 
+        correct: N
+      - answer: Polymerase Catalytic Reaction
+        correct: N
+  - question: Any Individual can develop overexpression of the EGFR Gene
+    answers:
+      - answer: True
+        correct: Y
+      - answer: False
+        correct: N

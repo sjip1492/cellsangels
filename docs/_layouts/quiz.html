@@ -1,8 +1,20 @@
 ---
 layout: archive
 ---
-
 {{ content }}
+
+{% if site.data.questions %}
+    <div id="quiz">
+        {% for question in site.data.questions.questions %}
+            <div class="question">
+            	<h3>{{ question.question }}</h3>
+	        	{% for answer in question.answers %}
+	        		<p class="answer{% if answer.correct == 'Y' %} correct{% endif %}">{{ answer.answer }}</p>
+	        	{% endfor %}
+        	</div>
+        {% endfor %}
+    </div>
+{% endif %}
 
 
 {% if paginator %}
@@ -19,3 +31,4 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+<script type="text/javascript" src="{{ page.quiz_script }}"></script>
