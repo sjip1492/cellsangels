@@ -1,5 +1,5 @@
 ---
-layout: cell-home
+layout: posts
 permalink: /symptoms/
 title: Common Symptoms
 ---

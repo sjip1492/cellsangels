@@ -4,4 +4,12 @@ permalink: /background/
 title: Gene Background
 ---
 
-The epidermal growth factor receptor is a protein that aids in the transport across the cell membrane. The initial process occurs by binding to a group of proteins known as the epidermal growth factors. This receptor aids in the functioning of cellular growth, differentiation, and replication. The overexpression and underexpression of the egfr gene constitute a matter of medical research interest. Specifically, genetic mutations causing overexpression of EGFR have been linked to the development of cancer. Around 30% of epithelial cancers, meaning cancers relating to cells that compose the surface tissues of the skin, throat, internal organs, etc, are caused from a mutation in the EGFR.
+The epidermal growth factor receptor is a protein that aids in the transport across the cell membrane. The initial process occurs by binding to a group of proteins known as the epidermal growth factors. 
+
+This receptor aids in the functioning of cellular growth, differentiation, and replication. 
+
+The overexpression and underexpression of the egfr gene constitute a matter of medical research interest. Specifically, genetic mutations causing overexpression of EGFR have been linked to the development of cancer. Around 30% of epithelial cancers, meaning cancers relating to cells that compose the surface tissues of the skin, throat, internal organs, etc, are caused from a mutation in the EGFR.
+
+Below is an image of the EGFR signaling pathway.
+
+<img src="https://www.creative-diagnostics.com/images/pathway/EGFR-Signaling-Pathway/EGFR-Signaling-Pathway.svg">

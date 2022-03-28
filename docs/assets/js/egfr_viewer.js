@@ -49,16 +49,17 @@ function init() {
     const manager = new THREE.LoadingManager( loadModel );
 
     // model
+    var loadingBarElement = document.querySelector("#loading-bar");
+    var loadingBarNode = document.createTextNode("");
+    loadingBarElement.appendChild(loadingBarNode);
 
     function onProgress( xhr ) {
 
         if ( xhr.lengthComputable ) {
 
             const percentComplete = xhr.loaded / xhr.total * 100;
-            console.log( 'model ' + Math.round( percentComplete, 2 ) + '% downloaded' );
-
+            loadingBarNode.nodeValue = Math.round( percentComplete, 2 );
         }
-
     }
 
     function onError() {}

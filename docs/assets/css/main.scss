@@ -11,15 +11,15 @@
 $element-roundedness: 5px;
 $fade-in-length: 0.5s;
 
-$main-color:  #9dbedb;
-$lighter-main-color: #accae5;
-$darker-main-color:  #738ba0;
+$main-color:  #41FF00;
+$lighter-main-color: #41FF00;
+$darker-main-color:  #41FF00;
 
 
 // TYPOGRAPHY OVERRIDES
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$garamond: Garamond, serif !default;
+$garamond: 'Courier New', monospace;
 $global-font-family: $garamond !default;
 $header-font-family: $garamond !default;
 $caption-font-family: $garamond !default;
@@ -30,6 +30,9 @@ body {
     font-family: $garamond !important;
     height: 100%;
     font-size: 16px;
+
+    background-color: #000;
+    color: $main-color;
 
     h1, h2, h3 {
         color: $main-color;
@@ -52,11 +55,28 @@ body {
         font-weight: 500;
         font-size: 16px;
     }
+    a {
+        color: $lighter-main-color;
+        &:hover {
+            color: white;
+        }
+        &:visited {
+            color: $lighter-main-color;
+            &:hover {
+                color: white;
+            }
+        }
+    }
 }
-            
+    
 html
 {
-    height: 100%;
+    background-color: #000;
+    color: $main-color;
+}
+#footer {
+    background-color: #000;
+    color: $main-color;
 }
 
 .intial-content {
@@ -82,7 +102,7 @@ html
         font-size: 16px;
 
         &:hover {
-            color: #000000 !important;
+            color: white !important;
         }
     }
 
@@ -115,11 +135,11 @@ html
 .greedy-nav__toggle {
     &:hover {
         .navicon, .navicon::before, .navicon::after {
-            background: $lighter-main-color !important;
+            background: white !important;
         }
     }
     .navicon, .navicon::before, .navicon::after {
-        background: #000000 !important;
+        background: $lighter-main-color !important;
     }
 }
 
@@ -290,6 +310,9 @@ html
 }
 
 .layout--quiz {
+    p { 
+        color:white;
+    }
     .question {
         font-weight: bold;
     }
@@ -297,27 +320,18 @@ html
         font-weight: normal;
     }
     .answer.correct.active {
-        color: blue;
+        color: $main-color;
         font-weight: bold;
     }
     .answer.active {
         font-weight: bold;
+        color: red;
     }
 }
 
-// FOOTER STYLING
-#footer {
-    background-color: white;
-
-    .page__footer-copyright {
-        font-family: $garamond !important;
-        color: black;
-        margin-top: 0;
-    }
-
-    a:hover {
-        color: $main-color;
-        text-decoration: none;
+.layout--posts {
+    p { 
+        color:white;
     }
 }
 
