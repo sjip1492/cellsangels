@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+{{ content }}
+{% for term in site.data.terms.terms %}
+	<div class="term">
+	  <div class="collapsible word">
+	  	{{ term.term }}
+	  </div>
+	  <p class="definition">{{ term.definition }}</p>
+	</div>
+{% endfor %}
+
+<script type="text/javascript" src="{{ page.expander_path }}"></script>

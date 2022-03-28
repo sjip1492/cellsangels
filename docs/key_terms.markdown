@@ -1,27 +1,9 @@
 ---
-layout: posts
+layout: terms
 permalink: /key-terms/
 title: Key Terms
+expander_path: /cellsangels/assets/js/expander.js
 ---
+Here is where we define several terms that are key to understanding our presentation. 
 
-Genotype: 
-
-Phenotype: 
-
-Cell: 
-
-Receptor:
-
-Binding:
-
-Mutation: 
-
-Cancer: 
-
-Chromosome: 
-
-Genetics: 
-
-Sequencing or Screening: 
-
-PCR: 
+Click on each of the terms below to reveal their definitions.

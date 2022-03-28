@@ -335,6 +335,28 @@ html
     }
 }
 
+.layout--terms {
+    .initial-content {
+        margin: 75px;
+    }
+    .term {
+        &:hover {
+            color: white;
+        }
+
+    }
+    .active {
+        color: white;
+    }
+    .definition {
+        padding: 0 1em;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+        color: white;
+    }
+}
+
 // SEARCH STYLING
 .search-content {
     padding-top: 3em;

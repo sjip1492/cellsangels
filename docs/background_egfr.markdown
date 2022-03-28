@@ -13,3 +13,4 @@ The overexpression and underexpression of the egfr gene constitute a matter of m
 Below is an image of the EGFR signaling pathway.
 
 <img src="https://www.creative-diagnostics.com/images/pathway/EGFR-Signaling-Pathway/EGFR-Signaling-Pathway.svg">
+[Image source](https://www.creative-diagnostics.com/images/pathway/EGFR-Signaling-Pathway)
