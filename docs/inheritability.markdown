@@ -10,4 +10,4 @@ It has a base price of 890 $, and the test order is named lung cancer susceptibi
 
 The test method is Exam Sequencing with CNV approved in the New York States. 
 
-Most likely, this gene mutation happens during the affected persons' lifetime, but in a small proportion, it can be inherited from a parent. Knowing the existence of cancer can both affect the duration between check-ups and result in more frequent check-ups and also the treatment of cancer itself. EGFR gene-related cancers can be treated as an inhibitor targeted to the EGFR proteins that are more active than usual.
+Most likely, this gene mutation happens during the affected persons' lifetime, but in a small proportion, it can be inherited from a parent. Knowing the existence of cancer can both affect the duration between check-ups and result in more frequent check-ups and also the treatment of cancer itself. EGFR gene-related cancers can be treated as an inhibitor targeted to the EGFR proteins that are more active than usual [source 7](https://doi.org/10.1517/14728222.2011.648617).
