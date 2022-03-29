@@ -21,5 +21,5 @@ The EGFR gene humans is located on chromosome 7.
 Below is a diagram of the EGFR gene's chromosome location.
 
 
-<img src="/assets/images/chromosome.png">
+<img src="/cellsangels/assets/images/chromosome.png">
 ([Image source](https://www.researchgate.net/profile/Catherine-Kelly-7/publication/7046863/figure/fig2/AS:601226278350849@1520354923159/Chromosomal-location-of-the-EGFR-gene-its-exon-structure-and-EGFR-protein-domains.png))
