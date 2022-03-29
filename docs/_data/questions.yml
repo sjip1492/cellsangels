@@ -4,11 +4,11 @@ questions:
       - answer: Tissue Development
         correct: Y
       - answer: Enhance fertility
-        correct: Y
+        correct: N
       - answer: Create change in taste-buds
         correct: N
       - answer: Cell signaling
-        correct: N
+        correct: Y
   - question: Where is the EGFR gene found? (Select best answer)
     answers:
       - answer: Chromosome 4
