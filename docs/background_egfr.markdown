@@ -8,7 +8,7 @@ The epidermal growth factor receptor is a protein that aids in the transport acr
 
 This receptor aids in the functioning of cellular growth, differentiation, and replication ([source 3](https://doi.org/10.1038/cgt.2014.55)).
 
-The overexpression and underexpression of the egfr gene constitute a matter of medical research interest. Specifically, genetic mutations causing overexpression of EGFR have been linked to the development of cancer (source 2)[https://doi.org/10.1016/j.ijrobp.2003.11.041]. Around 30% of epithelial cancers, meaning cancers relating to cells that compose the surface tissues of the skin, throat, internal organs, etc, are caused from a mutation in the EGFR ([source 1](https://doi.org/10.1158/1078-0432.CCR-06-0626)).
+The overexpression and underexpression of the egfr gene constitute a matter of medical research interest. Specifically, genetic mutations causing overexpression of EGFR have been linked to the development of cancer [source 2](https://doi.org/10.1016/j.ijrobp.2003.11.041). Around 30% of epithelial cancers, meaning cancers relating to cells that compose the surface tissues of the skin, throat, internal organs, etc, are caused from a mutation in the EGFR ([source 1](https://doi.org/10.1158/1078-0432.CCR-06-0626)).
 
 Below is an image of the EGFR signaling pathway. The signaling pathway is the mechanism of how a gene controls the overall function in cell.
 
