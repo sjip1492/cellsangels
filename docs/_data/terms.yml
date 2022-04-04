@@ -1,28 +1,20 @@
 terms:
-  - term: Genotype
-    definition: Genotype
   - term: Phenotype
     definition: Observable characteristics and traits of an organism 
   - term: Cell
     definition: The smallest unit that can live on its own and that makes up all living organisms and the tissues of the body
+    citation: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cell
   - term: Receptor
     definition: A molecule inside or on the surface of a cell that binds to a specific substance and causes a specific effect in the cell
-  - term: Binding
-    definition: Binding
+    citation: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/receptor
   - term: Mutation
     definition: A mutation occurs when a DNA gene is damaged or changed in such a way as to alter the genetic message carried by that gene
+    citation: https://www.brooklyn.cuny.edu/bc/ahp/BioInfo/MUT/Mut.Definition.html
   - term: Cancer
-    definition: Cancer is a disease in which some of the body’s cells grow uncontrollably and spread to other parts of the body 
-  - term: Chromosome
-    definition: Chromosome
+    definition: Cancer is a disease in which some of the body’s cells grow uncontrollably and spread to other parts of the body
+    citation: https://www.cancer.gov/about-cancer/understanding/what-is-cancer#:~:text=Cancer%20is%20a%20disease%20in,up%20of%20trillions%20of%20cells.
   - term: Genetics
     definition: Genetics is the scientific study of genes and heredity—of how certain qualities or traits are passed from parents to offspring as a result of changes in DNA sequence
-  - term: Sequencing
-    definition: Sequencing
+    citation: https://www.nigms.nih.gov/education/fact-sheets/Pages/genetics.aspx
   - term: PCR
     definition: (PCR- Short for polymerase chain reaction) It is a method used to amplify a small sample of genetic material
-    Citing: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cell (7)
-    https://www.cancer.gov/publications/dictionaries/cancer-terms/def/receptor (9)
-    https://www.brooklyn.cuny.edu/bc/ahp/BioInfo/MUT/Mut.Definition.html (13) 
-    https://www.cancer.gov/about-cancer/understanding/what-is-cancer#:~:text=Cancer%20is%20a%20disease%20in,up%20of%20trillions%20of%20cells. (15) 
-    https://www.nigms.nih.gov/education/fact-sheets/Pages/genetics.aspx (19)

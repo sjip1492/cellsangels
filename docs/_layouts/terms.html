@@ -9,7 +9,9 @@ layout: default
 	  <div class="collapsible word">
 	  	{{ term.term }}
 	  </div>
-	  <p class="definition">{{ term.definition }}</p>
+	  <div class="definition">
+	  	{{ term.definition }}{% if term.citation %} <a href={{ term.citation }}>(source)</a>{% endif %}
+	  </div>
 	</div>
 {% endfor %}
 
